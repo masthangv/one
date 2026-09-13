@@ -681,7 +681,7 @@
 
     <div style="display:flex;align-items:center;gap:10px">
       <div class="search" role="search">
-        <i class="fas fa-search"></i>
+        <em class="fas fa-search"></em>
         <input type="search" id="searchInput" placeholder="Find something..." aria-label="Search">
       </div>
       <a class="icon-btn" href="#" title="Account"><i class="far fa-user"></i></a>
