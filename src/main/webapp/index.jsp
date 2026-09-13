@@ -665,7 +665,7 @@
 <header>
   <div class="container header-inner">
     <div style="display:flex;align-items:center;gap:12px">
-      <button class="mobile-toggle" id="mobileToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <button class="mobile-toggle" id="mobileToggle" aria-label="Menu"><em class="fas fa-bars"></em></button>
       <a class="brand" href="#">Nexus<span class="dot">Shop</span></a>
     </div>
 
